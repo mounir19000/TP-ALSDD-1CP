@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1680348848 source:c:\users\mounir\desktop\codeblocks\main.c
+	"bib.h"
+
+1680349299 c:\users\mounir\desktop\codeblocks\bib.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1680338646 source:c:\users\user\bureau\last tp\codeblocks\main.c
+	"bib.h"
+
+1680338644 c:\users\user\bureau\last tp\codeblocks\bib.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
